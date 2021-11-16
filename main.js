@@ -33,6 +33,6 @@ let sorted = array.sort(function (a, b) {
   return a - b;
 });
 
-let wasItFound = binary_search(sorted, 69);
+let wasItFound = binary_search(sorted, 76);
 
 console.log(wasItFound);
